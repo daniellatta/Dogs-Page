@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+}
+
+.header {
+  margin-top: 70px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  height: 30px;
+  width: 50px;
+  padding: 15px 30px;
+  border: solid 2px transparent;
+  border-radius: 10px;
+  background-color: #00000075;
+  box-shadow: 0 0 4px 3px #ffffff59;
+  transition: all 0.3s ease;
+}
+
+.button:hover {
+  border: solid 2px #ffffff;
+  box-shadow: 0 0 8px 5px #ffffff59;
+}

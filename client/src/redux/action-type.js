@@ -1,0 +1,9 @@
+export const GET_ALL_DOGS = 'GET_DOGS';
+export const GET_TEMPERAMENTS = 'GET_TEMPERAMENTS';
+export const GET_DOG_BY_ID = 'GET_DOG_BY_ID';
+export const CLEAN_STATE = 'CLEAN_STATE';
+export const GET_DOG_BY_BREED = 'GET_DOG_BY_BREED';
+export const CREATE_DOG = 'ADD_DOG';
+export const FILTER = 'FILTER_BY_TEMPERAMENTS';
+export const ORDER = 'ORDER';
+export const ORIGIN = 'ORIGIN';

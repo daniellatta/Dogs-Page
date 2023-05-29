@@ -1,0 +1,33 @@
+body,
+html {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: repeat;
+  background-image: url('data:image/svg+xml;utf8,%3Csvg width=%222000%22 height=%221400%22 xmlns=%22http:%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cdefs%3E%3ClinearGradient id=%22a%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%2372c4af%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%2395d2c3%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22b%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23b6d1aa%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23c8dcbf%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22c%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23e9c1a3%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23eed0ba%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22d%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23ff8b97%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23ffa8b1%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient id=%22e%22 gradientTransform=%22rotate(90)%22%3E%3Cstop offset=%225%25%22 stop-color=%22%23ff3d7f%22%2F%3E%3Cstop offset=%2295%25%22 stop-color=%22%23ff6d9f%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath fill=%22%233fb8af%22 d=%22M0 0h2000v1400H0z%22%2F%3E%3Cpath d=%22M0 233c54.333-9.796 108.665-19.592 174-12 65.335 7.592 141.671 32.572 202 48 60.329 15.428 104.65 21.303 161 16 56.35-5.303 124.727-21.784 185-45 60.273-23.216 112.443-53.167 169-59 56.557-5.833 117.5 12.453 187 38s147.555 58.357 210 43c62.445-15.357 109.28-78.88 167-78 57.72.88 126.327 66.164 185 95s107.412 21.225 177 0 160.025-56.064 194-66c33.975-9.936 11.487 5.032 29 20l-40 1167H0Z%22 fill=%22url(%23a)%22%2F%3E%3Cpath d=%22M0 466c60.045-6.712 120.09-13.425 183-17 62.91-3.575 128.685-4.013 194-9s130.171-14.524 185-14c54.829.524 99.631 11.109 154 18s118.304 10.088 181 8c62.696-2.088 124.153-9.463 189-9 64.847.463 133.084 8.763 189 7s99.51-13.588 161-23c61.49-9.412 140.873-16.41 204 2 63.127 18.41 109.996 62.226 179 82s160.144 15.507 194 4c33.856-11.507 10.428-30.253 27-49l-40 934H0Z%22 fill=%22url(%23b)%22%2F%3E%3Cpath d=%22M0 700c62.21-8.38 124.421-16.759 184-19 59.579-2.241 116.525 1.655 182 8s139.477 15.137 196 1c56.523-14.137 95.566-51.204 154-37s136.26 79.679 197 91c60.74 11.321 104.393-31.51 168-38 63.607-6.49 147.169 23.362 211 33 63.831 9.638 107.933-.94 167-15 59.067-14.06 133.1-31.604 193-38 59.9-6.396 105.665-1.645 167-6 61.335-4.355 138.239-17.816 171-16 32.761 1.816 21.38 18.908 50 36l-40 700H0Z%22 fill=%22url(%23c)%22%2F%3E%3Cpath d=%22M0 933c51.7 2.14 103.401 4.28 170 9s148.096 12.02 206 1c57.904-11.02 92.216-40.358 152-44 59.784-3.642 145.042 18.413 210 35s109.616 27.707 170 31c60.384 3.293 136.493-1.24 193 0 56.507 1.24 93.413 8.252 154 7 60.587-1.252 144.856-10.77 209-23s108.162-27.175 157-21c48.838 6.175 102.495 33.47 179 35 76.505 1.53 175.859-22.706 213-32 37.141-9.294 12.07-3.647 27 2l-40 467H0Z%22 fill=%22url(%23d)%22%2F%3E%3Cpath d=%22M0 1166c56.13 4.596 112.26 9.193 172-1 59.74-10.193 123.09-35.175 184-41 60.91-5.825 119.382 7.507 182 29 62.618 21.493 129.384 51.147 192 34 62.616-17.147 121.081-81.095 183-70 61.919 11.095 127.29 97.232 191 98 63.71.768 125.758-83.833 183-94 57.242-10.167 109.678 54.102 164 65 54.322 10.898 110.53-31.574 171-42 60.47-10.426 125.204 11.193 197 24s150.656 16.802 182 15c31.344-1.802 15.172-9.401 39-17l-40 234H0Z%22 fill=%22url(%23e)%22%2F%3E%3C%2Fsvg%3E');
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins';
+}
+
+select {
+  cursor: pointer;
+  padding: 5px;
+  background-color: rgba(0, 0, 0, 0.151);
+  box-shadow: 0 0 5px 2px rgba(255, 255, 255, 0.671);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  outline: none;
+  transition: all 0.3s ease-in-out;
+}
+
+select option {
+  color: black;
+  background-color: whitesmoke;
+}
+
+select:focus,
+select:hover {
+  background-color: rgba(0, 0, 0, 0.281);
+}

@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.detail {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+  width: 75%;
+  gap: 30px;
+  backdrop-filter: blur(10px);
+  box-shadow: 6px 4px 7px 0 rgba(0, 0, 0, 0.39);
+  border-radius: 15px;
+  padding: 50px;
+}
+
+.image img {
+  height: 500px;
+  width: 500px;
+}
+
+.content h3 {
+  font-weight: normal;
+}
